@@ -2,7 +2,7 @@ let questions = [
   {
     numb: 1,
     question: "What does HTML stand for?",
-    answer:   "Hyper Text Markup Language",
+    answer: "Hyper Text Markup Language",
     options: [
       "Hyper Text Preprocessor",
       "Hyper Text Markup Language",
@@ -13,7 +13,7 @@ let questions = [
   {
     numb: 2,
     question: "What word is spelled incorrectly in every single dictionary",
-    answer:   "Incorrectly",
+    answer: "Incorrectly",
     options: [
       "Rain",
       "Choir",
@@ -23,8 +23,8 @@ let questions = [
   },
   {
     numb: 3,
-    question: " What goes up and down but can't move",
-    answer:   "Staircase",
+    question: "What goes up and down but can't move",
+    answer: "Staircase",
     options: [
       "Staircase",
       "Age",
@@ -34,7 +34,7 @@ let questions = [
   },
   {
     numb: 4,
-    question:" I’m light as a feather, but not even the strongest girl can hold me for more than 5 minutes. What am I?",
+    question: "I’m light as a feather, but not even the strongest girl can hold me for more than 5 minutes. What am I?",
     answer: "Breath",
     options: [
       "House",
@@ -43,11 +43,10 @@ let questions = [
       "Breath"
     ]
   },
-  
   {
     numb: 5,
     question: "What gets bigger and bigger the more you take away from it?",
-    answer:   "Hole",
+    answer: "Hole",
     options: [
       "House",
       "Hole",
@@ -55,11 +54,10 @@ let questions = [
       "Space"
     ]
   },
-  
   {
     numb: 6,
-    question:" If two’s company and three’s a crowd, what do four and five make?",
-    answer:   "Nine",
+    question: "If two’s company and three’s a crowd, what do four and five make?",
+    answer: "Nine",
     options: [
       "Nine",
       "Owner of the company",
@@ -67,11 +65,10 @@ let questions = [
       "Ten"
     ]
   },
-  
   {
     numb: 7,
-    question:" What has a face and two hands, but no arms or legs?",
-    answer:   "A clock",
+    question: "What has a face and two hands, but no arms or legs?",
+    answer: "A clock",
     options: [
       "Owner of the company",
       "Potato",
@@ -81,7 +78,7 @@ let questions = [
   },
   {
     numb: 8,
-    question:" I’m so fragile that if you say my name, you’ll break me. What am I?",
+    question: "I’m so fragile that if you say my name, you’ll break me. What am I?",
     answer: "Silence",
     options: [
       "Glass",
@@ -92,7 +89,7 @@ let questions = [
   },
   {
     numb: 9,
-    question:" What can one catch that is not thrown?",
+    question: "What can one catch that is not thrown?",
     answer: "A cold",
     options: [
       "Sickness",
@@ -101,10 +98,9 @@ let questions = [
       "A cold"
     ]
   },
-
   {
     numb: 10,
-    question:" What goes up but never down",
+    question: "What goes up but never down",
     answer: "Age",
     options: [
       "Smoke",
@@ -112,8 +108,5 @@ let questions = [
       "Age",
       "Sun"
     ]
-  },
-  
-  
-  
+  }
 ];
